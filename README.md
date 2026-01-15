@@ -131,4 +131,4 @@ $ md-img-uri diagram.svg >> report.md
 
 ## License
 
-Same as parent project.
+MIT
